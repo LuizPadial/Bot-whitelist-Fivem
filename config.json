@@ -1,0 +1,12 @@
+{
+    "token": "",
+    "canal_aprovados": "", 
+    "cargoadmin": "",
+    "cargoaprovado": "",
+    "ticket": {
+        "category_id": "",
+        "category_call_id": "",
+        "support_role": "",
+        "channel_logs": ""
+    }
+}
